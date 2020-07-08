@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Steve-luo/html-crush-cli/issues"
   },
-  "homepage": "https://github.com/Steve-luo/html-crush-cli#readme"
+  "homepage": "https://github.com/Steve-luo/html-crush-cli#readme",
+  "dependencies": {
+    "html-crush": "^2.0.0"
+  }
 }
