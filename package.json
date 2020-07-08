@@ -1,0 +1,19 @@
+{
+  "name": "com.steve-luo.htmlcrushcli",
+  "version": "0.0.1",
+  "description": "A command-line version of the email minify tool html-crush",
+  "main": "html-crush.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steve-luo/html-crush-cli.git"
+  },
+  "author": "Steve-luo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Steve-luo/html-crush-cli/issues"
+  },
+  "homepage": "https://github.com/Steve-luo/html-crush-cli#readme"
+}
